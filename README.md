@@ -1,8 +1,15 @@
-# React + Vite
+LEXi-OUI: Dyslexia Severity Assessment Game
+🚀 LEXi-OUI is a React-based game designed to help determine the severity of dyslexia in individuals. Developed as part of the Gotta Go Hack hackathon, this project leverages interactive gameplay to assess reading challenges, making dyslexia screening more engaging and accessible.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎯 Project Overview
+Dyslexia affects millions, yet early detection remains a challenge. LEXi-OUI aims to bridge this gap by providing an intuitive, interactive, and engaging way to assess dyslexia severity.
 
-Currently, two official plugins are available:
+🔹 Features
+✅ Gamified dyslexia assessment
+✅ User-friendly UI for better accessibility
+✅ Real-time feedback and severity analysis
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💻 Tech Stack
+Component	Technology
+Frontend	React, HTML, CSS
+Backend	FastAPI, Python
