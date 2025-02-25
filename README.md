@@ -6,6 +6,8 @@
 Dyslexia affects millions, yet early detection remains a challenge.** LEXi-OUI** aims to bridge this gap by providing an intuitive, interactive, and engaging way to assess dyslexia severity through a game-based approach.
 
 🔹 Features
+
+
 ✔️ Gamified Dyslexia Assessment – Users play engaging challenges that evaluate their reading abilities.
 ✔️ User-Friendly Interface – Designed with accessibility in mind for ease of use.
 ✔️ Real-Time Feedback – Provides instant results and severity analysis.
