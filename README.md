@@ -11,6 +11,5 @@ Dyslexia affects millions, yet early detection remains a challenge.** LEXi-OUI**
 ✔️ Real-Time Feedback – Provides instant results and severity analysis.
 
 💻 Tech Stack
-Component	Technology
 Frontend:	React, HTML, CSS
 Backend:	FastAPI, Python
